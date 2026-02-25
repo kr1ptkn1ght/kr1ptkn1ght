@@ -1,52 +1,68 @@
-# ⚡ @kr1ptkn1ght | Red Team & Offensive Security Enthusiast
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Junior_Pentester-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web_&_Infrastructure-blue?style=for-the-badge" />
-</p>
+  <img src="./banner.png" width="100%" alt="Banner kr1ptkn1ght" />
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;CTF+Player+%7C+HackTheBox;Python+Tooling+Developer;Always+Learning..." alt="Typing SVG" />
+  </a>
 
-### 🕵️ Sobre mí
-
-Soy un apasionado de la **ciberseguridad ofensiva** y el **hacking ético**. Me enfoco en entender cómo se rompen las cosas para aprender a construirlas de forma segura. Actualmente, dedico mi tiempo a resolver máquinas en plataformas de CTF y a desarrollar herramientas de automatización en Python.
-
-- 🔭 **Trabajando en**: Mi laboratorio personal de Active Directory y automatización de Recon.
-- 🎓 **Formación**: Grado en Ingeniería Informática [o tu formación actual].
-- 🛡️ **Intereses**: Pentesting Web, Privilege Escalation, Scripting y Hardening de Sistemas.
-- 💬 **Hablamos sobre**: Hacking, Linux, Python y por qué nunca deberías usar la misma contraseña dos veces.
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 Sobre mí
 
-**Lenguajes y Scripting**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+<div align="center">
+  <p><i>"M1 espada es cód1go; m1 escudo, un f1rewall de 256 b1ts."</i></p>
+</div>
 
-**Hacking & OS**
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Soy estudiante en Ing. Informática y apasionado de la seguridad informática. Mi objetivo es comprender cómo funcionan los sistemas para protegerlos (y romperlos éticamente). Me estoy especializando en **Web Pentesting** y automatización de tareas con **Python** y **Bash** entre otros muchos objetivos que tengo.
 
----
-
-### 📊 Mis Estadísticas de Hacking
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kr1ptkn1ght&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1ptkn1ght&layout=compact&theme=tokyonight"/>
-</p>
+- 🔭 **Actualmente**: Creando herramientas de reconocimiento y practicando en laboratorios.
+- 🎯 **Objetivo**: Junior Pentester / Red Team Operator / Blue Team Operator.
+- ⚡ **Stack**: Python, Linux, Docker, Burp Suite, Nmap, OWASP 10, ... .
 
 ---
 
-### 🔗 Encuéntrame en
+### 🛠️ Arsenal & Herramientas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kr1ptkn1ght)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/TU_ID)
+<div align="center">
 
-> "The quieter you become, the more you are able to hear." — Kali Linux
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-005C99?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kr1ptkn1ght&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=20C20E" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1ptkn1ght&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/kr1ptkn1ght/kr1ptkn1ght/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/TU_USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://app.hackthebox.com/users/TU_ID">
+    <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=00FF00" />
+  </a>
+</div>
