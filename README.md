@@ -42,6 +42,10 @@ Soy estudiante en Ing. Informática y apasionado de la seguridad informática. M
 
 ---
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Cyber_Bat-Modo_Activo-00F0FF?style=for-the-badge&logo=batman&logoColor=black&labelColor=00F0FF" alt="Cyber Bat Badge" />
+</div>
+
 ### 📊 Estadísticas
 
 <div align="center">
