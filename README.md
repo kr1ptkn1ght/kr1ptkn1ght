@@ -48,9 +48,8 @@ Soy estudiante en Ing. Informática y apasionado de la seguridad informática. M
 ### 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kr1ptkn1ght&show_icons=true&theme=tokyonight&hide_border=true&t=1" height="150" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1ptkn1ght&layout=compact&theme=tokyonight&hide_border=true&t=1" height="150" alt="Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kr1ptkn1ght&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kr1ptkn1ght&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Langs" />
 </div>
 
 <br/>
