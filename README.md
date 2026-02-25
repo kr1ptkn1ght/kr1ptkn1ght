@@ -59,10 +59,10 @@ Soy estudiante en Ing. Informática y apasionado de la seguridad informática. M
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://linkedin.com/in/adrián-bravo-alonso-71a9b5371">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://app.hackthebox.com/users/TU_ID">
-    <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=00FF00" />
-  </a>
+  <a href="https://tryhackme.com/p/Kr1ptKn1ght">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+</a>
 </div>
